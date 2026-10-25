@@ -1,0 +1,58 @@
+{
+  "at": "2026-10-25T06:49:11.541Z",
+  "browser": "Edge / Playwright",
+  "results": [
+    {
+      "name": "connection",
+      "ok": true,
+      "detail": "实时服务已连接 · 只读试算"
+    },
+    {
+      "name": "token-injected",
+      "ok": true,
+      "detail": "已注入，长度 43"
+    },
+    {
+      "name": "store-search",
+      "ok": true,
+      "detail": "5 家门店"
+    },
+    {
+      "name": "menu-and-detail",
+      "ok": true,
+      "detail": "板烧鸡腿堡三件套"
+    },
+    {
+      "name": "coupon-status",
+      "ok": true,
+      "detail": "当前门店无适用券"
+    },
+    {
+      "name": "quote-current",
+      "ok": true,
+      "detail": "实际试算 ¥34.50 · 约 827 千卡 · 蛋白质 27 克"
+    },
+    {
+      "name": "generate-plans",
+      "ok": true,
+      "detail": "3 个方案 · 共 15 个候选核价成功，7 个同时满足目标。2 个候选构建失败，比较范围不完整。以下为已比较候选中的不同取舍。 未自动套用优惠券。"
+    },
+    {
+      "name": "plan-price",
+      "ok": true,
+      "detail": "¥14.90本单实时试算"
+    },
+    {
+      "name": "compare-one",
+      "ok": true,
+      "detail": "3 个单项替换 · 基线与 3 个单项替换均已重新核价。主食、其他搭配和人数保持一致。"
+    },
+    {
+      "name": "export",
+      "ok": true,
+      "detail": "麦有数-本次比较.json"
+    }
+  ],
+  "passed": 10,
+  "total": 10
+}

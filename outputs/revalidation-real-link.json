@@ -1,0 +1,84 @@
+{
+  "startedAt": "2026-10-25T14:46:57",
+  "checks": [
+    {
+      "item": "status",
+      "ok": true,
+      "detail": "官方 MCP 初始化及白名单工具校验成功"
+    },
+    {
+      "item": "status-without-token",
+      "ok": true,
+      "detail": "HTTP 403"
+    },
+    {
+      "item": "schema:query-nearby-stores",
+      "ok": true,
+      "detail": "失败关闭策略接受真实官方 schema"
+    },
+    {
+      "item": "schema:query-meals",
+      "ok": true,
+      "detail": "失败关闭策略接受真实官方 schema"
+    },
+    {
+      "item": "schema:query-store-coupons",
+      "ok": true,
+      "detail": "失败关闭策略接受真实官方 schema"
+    },
+    {
+      "item": "schema:query-meal-detail",
+      "ok": true,
+      "detail": "失败关闭策略接受真实官方 schema"
+    },
+    {
+      "item": "schema:list-nutrition-foods",
+      "ok": true,
+      "detail": "失败关闭策略接受真实官方 schema"
+    },
+    {
+      "item": "schema:calculate-price",
+      "ok": true,
+      "detail": "失败关闭策略接受真实官方 schema"
+    },
+    {
+      "item": "call:query-nearby-stores",
+      "ok": true,
+      "detail": "5 家门店"
+    },
+    {
+      "item": "call:query-meals",
+      "ok": true,
+      "detail": "112 个在售条目"
+    },
+    {
+      "item": "call:query-store-coupons",
+      "ok": true,
+      "detail": "适用券 0 张"
+    },
+    {
+      "item": "call:query-meal-detail",
+      "ok": true,
+      "detail": "板烧鸡腿堡三件套 · 3 轮"
+    },
+    {
+      "item": "call:list-nutrition-foods",
+      "ok": true,
+      "detail": "6016 条营养数据"
+    },
+    {
+      "item": "call:calculate-price",
+      "ok": true,
+      "detail": "板烧三件套（中薯+无糖可乐）实付 ¥34.50"
+    },
+    {
+      "item": "negative:missing-storeCode",
+      "ok": true,
+      "detail": "HTTP 400"
+    }
+  ],
+  "tokenInjected": true,
+  "finishedAt": "2026-10-25T14:47:00",
+  "passed": 15,
+  "total": 15
+}

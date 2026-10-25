@@ -1,0 +1,431 @@
+{
+  "product": "麦有数",
+  "storeName": "麦当劳上海浦东张江中兴智慧园餐厅",
+  "mode": "即时到店自取",
+  "target": {
+    "budget": 35,
+    "people": 1,
+    "calories": 850,
+    "priority": "balanced",
+    "drink": false,
+    "fries": false,
+    "avoid": []
+  },
+  "checkedAt": "2026-10-25T04:45:11.416Z",
+  "couponApplied": false,
+  "candidates": [
+    {
+      "title": "当前搭配",
+      "items": [
+        {
+          "name": "板烧鸡腿堡",
+          "quantity": 1
+        },
+        {
+          "name": "中薯条",
+          "quantity": 1
+        },
+        {
+          "name": "可乐中杯",
+          "quantity": 1
+        }
+      ],
+      "priceYuan": 34.5,
+      "energyKcal": 827,
+      "protein": 27,
+      "missing": [],
+      "quotedAt": "2026-10-25T04:45:06.763Z",
+      "change": null
+    },
+    {
+      "title": "仅将中薯条换成小杯玉米杯",
+      "items": [
+        {
+          "name": "板烧鸡腿堡",
+          "quantity": 1
+        },
+        {
+          "name": "小杯玉米杯",
+          "quantity": 1
+        },
+        {
+          "name": "可乐中杯",
+          "quantity": 1
+        }
+      ],
+      "priceYuan": 34,
+      "energyKcal": 591,
+      "protein": 25,
+      "missing": [],
+      "quotedAt": "2026-10-25T04:45:06.975Z",
+      "change": {
+        "from": "中薯条",
+        "to": "小杯玉米杯",
+        "round": "2"
+      }
+    },
+    {
+      "title": "仅将中薯条换成马来咖喱风味薄皮肉骨鸡3块",
+      "items": [
+        {
+          "name": "板烧鸡腿堡",
+          "quantity": 1
+        },
+        {
+          "name": "马来咖喱风味薄皮肉骨鸡3块",
+          "quantity": 1
+        },
+        {
+          "name": "可乐中杯",
+          "quantity": 1
+        }
+      ],
+      "priceYuan": 37,
+      "energyKcal": null,
+      "protein": null,
+      "missing": [
+        "马来咖喱风味薄皮肉骨鸡3块"
+      ],
+      "quotedAt": "2026-10-25T04:45:07.209Z",
+      "change": {
+        "from": "中薯条",
+        "to": "马来咖喱风味薄皮肉骨鸡3块",
+        "round": "2"
+      }
+    },
+    {
+      "title": "仅将中薯条换成大薯条",
+      "items": [
+        {
+          "name": "板烧鸡腿堡",
+          "quantity": 1
+        },
+        {
+          "name": "大薯条",
+          "quantity": 1
+        },
+        {
+          "name": "可乐中杯",
+          "quantity": 1
+        }
+      ],
+      "priceYuan": 37,
+      "energyKcal": 917,
+      "protein": 29,
+      "missing": [],
+      "quotedAt": "2026-10-25T04:45:07.429Z",
+      "change": {
+        "from": "中薯条",
+        "to": "大薯条",
+        "round": "2"
+      }
+    },
+    {
+      "title": "仅将可乐中杯换成无糖可口可乐中杯",
+      "items": [
+        {
+          "name": "板烧鸡腿堡",
+          "quantity": 1
+        },
+        {
+          "name": "中薯条",
+          "quantity": 1
+        },
+        {
+          "name": "无糖可口可乐中杯",
+          "quantity": 1
+        }
+      ],
+      "priceYuan": 34.5,
+      "energyKcal": 680,
+      "protein": 27,
+      "missing": [],
+      "quotedAt": "2026-10-25T04:45:08.740Z",
+      "change": {
+        "from": "可乐中杯",
+        "to": "无糖可口可乐中杯",
+        "round": "3"
+      }
+    },
+    {
+      "title": "仅将可乐中杯换成【美汁源】“多汁柠柠”",
+      "items": [
+        {
+          "name": "板烧鸡腿堡",
+          "quantity": 1
+        },
+        {
+          "name": "中薯条",
+          "quantity": 1
+        },
+        {
+          "name": "【美汁源】“多汁柠柠”",
+          "quantity": 1
+        }
+      ],
+      "priceYuan": 35.5,
+      "energyKcal": null,
+      "protein": null,
+      "missing": [
+        "【美汁源】“多汁柠柠”"
+      ],
+      "quotedAt": "2026-10-25T04:45:09.510Z",
+      "change": {
+        "from": "可乐中杯",
+        "to": "【美汁源】“多汁柠柠”",
+        "round": "3"
+      }
+    },
+    {
+      "title": "仅将可乐中杯换成热浓浓黑巧中杯",
+      "items": [
+        {
+          "name": "板烧鸡腿堡",
+          "quantity": 1
+        },
+        {
+          "name": "中薯条",
+          "quantity": 1
+        },
+        {
+          "name": "热浓浓黑巧中杯",
+          "quantity": 1
+        }
+      ],
+      "priceYuan": 45.5,
+      "energyKcal": 856,
+      "protein": 37,
+      "missing": [],
+      "quotedAt": "2026-10-25T04:45:09.678Z",
+      "change": {
+        "from": "可乐中杯",
+        "to": "热浓浓黑巧中杯",
+        "round": "3"
+      }
+    },
+    {
+      "title": "同主食的另一种搭配",
+      "items": [
+        {
+          "name": "板烧鸡腿堡",
+          "quantity": 1
+        },
+        {
+          "name": "小杯玉米杯",
+          "quantity": 1
+        },
+        {
+          "name": "无糖可口可乐中杯",
+          "quantity": 1
+        }
+      ],
+      "priceYuan": 34,
+      "energyKcal": 444,
+      "protein": 25,
+      "missing": [],
+      "quotedAt": "2026-10-25T04:45:09.895Z",
+      "change": null
+    },
+    {
+      "title": "人气经典随心配",
+      "items": [
+        {
+          "name": "双层吉士汉堡",
+          "quantity": 1
+        },
+        {
+          "name": "可乐麦炫酷",
+          "quantity": 1
+        }
+      ],
+      "priceYuan": 14.9,
+      "energyKcal": null,
+      "protein": null,
+      "missing": [
+        "可乐麦炫酷"
+      ],
+      "quotedAt": "2026-10-25T04:45:10.082Z",
+      "change": null
+    },
+    {
+      "title": "仅将可乐麦炫酷换成小杯玉米杯",
+      "items": [
+        {
+          "name": "双层吉士汉堡",
+          "quantity": 1
+        },
+        {
+          "name": "小杯玉米杯",
+          "quantity": 1
+        }
+      ],
+      "priceYuan": 14.9,
+      "energyKcal": 482,
+      "protein": 29,
+      "missing": [],
+      "quotedAt": "2026-10-25T04:45:10.292Z",
+      "change": {
+        "from": "可乐麦炫酷",
+        "to": "小杯玉米杯",
+        "round": "2"
+      }
+    },
+    {
+      "title": "仅将可乐麦炫酷换成无糖可口可乐中杯",
+      "items": [
+        {
+          "name": "双层吉士汉堡",
+          "quantity": 1
+        },
+        {
+          "name": "无糖可口可乐中杯",
+          "quantity": 1
+        }
+      ],
+      "priceYuan": 14.9,
+      "energyKcal": 429,
+      "protein": 27,
+      "missing": [],
+      "quotedAt": "2026-10-25T04:45:10.531Z",
+      "change": {
+        "from": "可乐麦炫酷",
+        "to": "无糖可口可乐中杯",
+        "round": "2"
+      }
+    },
+    {
+      "title": "大堡口福三件套",
+      "items": [
+        {
+          "name": "Hold不住鸡排堡（椒盐风味）",
+          "quantity": 1
+        },
+        {
+          "name": "中薯条",
+          "quantity": 1
+        },
+        {
+          "name": "可乐中杯",
+          "quantity": 1
+        }
+      ],
+      "priceYuan": 22.9,
+      "energyKcal": null,
+      "protein": null,
+      "missing": [
+        "Hold不住鸡排堡（椒盐风味）"
+      ],
+      "quotedAt": "2026-10-25T04:45:10.768Z",
+      "change": null
+    },
+    {
+      "title": "仅将中薯条换成马来咖喱风味薄皮肉骨鸡3块",
+      "items": [
+        {
+          "name": "Hold不住鸡排堡（椒盐风味）",
+          "quantity": 1
+        },
+        {
+          "name": "马来咖喱风味薄皮肉骨鸡3块",
+          "quantity": 1
+        },
+        {
+          "name": "可乐中杯",
+          "quantity": 1
+        }
+      ],
+      "priceYuan": 25.4,
+      "energyKcal": null,
+      "protein": null,
+      "missing": [
+        "Hold不住鸡排堡（椒盐风味）",
+        "马来咖喱风味薄皮肉骨鸡3块"
+      ],
+      "quotedAt": "2026-10-25T04:45:10.965Z",
+      "change": {
+        "from": "中薯条",
+        "to": "马来咖喱风味薄皮肉骨鸡3块",
+        "round": "2"
+      }
+    },
+    {
+      "title": "仅将中薯条换成大薯条",
+      "items": [
+        {
+          "name": "Hold不住鸡排堡（椒盐风味）",
+          "quantity": 1
+        },
+        {
+          "name": "大薯条",
+          "quantity": 1
+        },
+        {
+          "name": "可乐中杯",
+          "quantity": 1
+        }
+      ],
+      "priceYuan": 25.4,
+      "energyKcal": null,
+      "protein": null,
+      "missing": [
+        "Hold不住鸡排堡（椒盐风味）"
+      ],
+      "quotedAt": "2026-10-25T04:45:11.198Z",
+      "change": {
+        "from": "中薯条",
+        "to": "大薯条",
+        "round": "2"
+      }
+    },
+    {
+      "title": "大堡口福三件套 · 换搭配",
+      "items": [
+        {
+          "name": "Hold不住鸡排堡（椒盐风味）",
+          "quantity": 1
+        },
+        {
+          "name": "中薯条",
+          "quantity": 1
+        },
+        {
+          "name": "无糖可口可乐中杯",
+          "quantity": 1
+        }
+      ],
+      "priceYuan": 22.9,
+      "energyKcal": null,
+      "protein": null,
+      "missing": [
+        "Hold不住鸡排堡（椒盐风味）"
+      ],
+      "quotedAt": "2026-10-25T04:45:11.416Z",
+      "change": null
+    }
+  ],
+  "baseline": {
+    "title": "仅将可乐麦炫酷换成无糖可口可乐中杯",
+    "items": [
+      {
+        "name": "双层吉士汉堡",
+        "quantity": 1
+      },
+      {
+        "name": "无糖可口可乐中杯",
+        "quantity": 1
+      }
+    ],
+    "priceYuan": 14.9,
+    "energyKcal": 429,
+    "protein": 27,
+    "missing": [],
+    "quotedAt": "2026-10-25T04:45:10.531Z",
+    "change": {
+      "from": "可乐麦炫酷",
+      "to": "无糖可口可乐中杯",
+      "round": "2"
+    }
+  },
+  "comparisons": [],
+  "note": "价格为查询时试算；营养按标准份，未知不作零。有限候选不代表全局最优。"
+}
