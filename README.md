@@ -89,3 +89,5 @@ node --test test_audit_frontend.js
 `index.html`、`style.css`、`app.js` 为前端，`server.py` 为本机只读桥接，`skills/maiyoushu` 为技能源。`MCP_INTEGRATION.md` 描述真实调用，`workbuddy.md` 为经筛选的真实开发对话摘录及记录，`CONTEST_DECLARATION.md` 保持官方原文。
 
 同一作品参加 WaytoAGI 用餐赛道和麦当劳程序员创意开发大赛，二者需各自完成提交。提供公开仓库、源代码、脱敏配置示例、安装与使用说明。报名与获奖状态以各平台回执为准。
+
+公开源码仓库：https://github.com/Sheyuy/maiyoushu （麦当劳程序员创意开发大赛参赛报名仓库，含全部源代码、测试与验证文档）
